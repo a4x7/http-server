@@ -1,2 +1,4 @@
 test*
 proto
+client.c
+client
